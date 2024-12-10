@@ -28,9 +28,3 @@ Este proyecto utiliza un Arduino con un teclado matricial, un módulo LCD I2C, u
 2. **Control del Servo:** Controla el movimiento del servo con una opción del menú.
 3. **Pantalla LCD:** Muestra mensajes interactivos relacionados con el menú y las acciones realizadas.
 4. **Teclado Matricial:** Interfaz para navegar y seleccionar las opciones del menú.
-
-### 💻 Instalación
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/menu-servo-led.git
-   cd menu-servo-led
